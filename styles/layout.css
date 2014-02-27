@@ -15,10 +15,10 @@ nav, article, aside {
     padding: 5px;
 }
 nav, aside{
-    width:98px;
+    width:102px;
 }
 article{
-    width:298px;
+    width:296px;
 }
 .bottom{
    clear:left;
